@@ -205,11 +205,13 @@ def check_all_remembered_plans():
         p_name = product_info.get("제품명", p_key)
         p_code = product_info.get("제품코드", p_key)
 
+        # 반드시 제품코드로 BOM 조회
+        lookup_key = p_code or p_key or p_name
+
         result_dict = build_result(
-            p_name,
+            lookup_key,
             p_qty,
-            extra_consumption=running_extra_consumption,
-        )
+            extra_consumption=running_extra_consumption,)
 
         detail_list = result_dict.get("상세", []) or []
         shortage_list = result_dict.get("부족", []) or []
@@ -224,15 +226,14 @@ def check_all_remembered_plans():
             if not m_code:
                 continue
 
+            matched_product_code = result_dict.get("제품코드", p_code)
+            matched_product_name = result_dict.get("제품명", p_name)
+
             entry = {
                 "production_date": p_date,
-                "product_code": p_code,
-                "product_name": p_name,
-                "product_qty_kg": _safe_float(p_qty, 0.0),
-                "material_code": m_code,
-                "material_name": m_name,
-                "material_qty": m_req,
-                "material_unit": m_unit,
+                "product_code": matched_product_code,
+                "product_name": matched_product_name,
+                ...
             }
 
             if m_code not in current_usage_by_material:
