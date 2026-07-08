@@ -1,0 +1,1504 @@
+{
+  "items": {
+    "이지비육우용v": {
+      "ocr_name": "이지비육우용v",
+      "ocr_key": "이지비육우용v",
+      "product_code": "P100099",
+      "product_name": "이지그룹) 비육우용비타민",
+      "source": "image_button",
+      "score": 67,
+      "count": 1,
+      "first_seen": "2026-06-16 21:02:20",
+      "last_seen": "2026-06-16 21:02:20",
+      "history": [
+        {
+          "time": "2026-06-16 21:02:20",
+          "ocr_name": "이지비육우용v",
+          "product_code": "P100099",
+          "product_name": "이지그룹) 비육우용비타민",
+          "source": "image_button",
+          "score": 67
+        }
+      ]
+    },
+    "뉴미네d": {
+      "ocr_name": "뉴미네D",
+      "ocr_key": "뉴미네d",
+      "product_code": "P100365",
+      "product_name": "CJ) 뉴미네랄D",
+      "source": "image_button",
+      "score": 73,
+      "count": 1,
+      "first_seen": "2026-06-16 21:02:20",
+      "last_seen": "2026-06-16 21:02:20",
+      "history": [
+        {
+          "time": "2026-06-16 21:02:20",
+          "ocr_name": "뉴미네D",
+          "product_code": "P100365",
+          "product_name": "CJ) 뉴미네랄D",
+          "source": "image_button",
+          "score": 73
+        }
+      ]
+    },
+    "옴디미네프로": {
+      "ocr_name": "옴디미네프로",
+      "ocr_key": "옴디미네프로",
+      "product_code": "P100744",
+      "product_name": "이지그룹) 옵티미네프로",
+      "source": "image_button",
+      "score": 50,
+      "count": 1,
+      "first_seen": "2026-06-16 21:05:46",
+      "last_seen": "2026-06-16 21:05:46",
+      "history": [
+        {
+          "time": "2026-06-16 21:05:46",
+          "ocr_name": "옴디미네프로",
+          "product_code": "P100744",
+          "product_name": "이지그룹) 옵티미네프로",
+          "source": "image_button",
+          "score": 50
+        }
+      ]
+    },
+    "피크릿믹스": {
+      "ocr_name": "피크릿믹스",
+      "ocr_key": "피크릿믹스",
+      "product_code": "P100743",
+      "product_name": "DH) 피글렛믹스",
+      "source": "image_button",
+      "score": 50,
+      "count": 1,
+      "first_seen": "2026-06-17 20:46:06",
+      "last_seen": "2026-06-17 20:46:06",
+      "history": [
+        {
+          "time": "2026-06-17 20:46:06",
+          "ocr_name": "피크릿믹스",
+          "product_code": "P100743",
+          "product_name": "DH) 피글렛믹스",
+          "source": "image_button",
+          "score": 50
+        }
+      ]
+    },
+    "루프로민벨로스": {
+      "ocr_name": "루프로민벨로스",
+      "ocr_key": "루프로민벨로스",
+      "product_code": "P10382",
+      "product_name": "프로비미) 루프로민밸런스 2.0",
+      "source": "image_button",
+      "score": 50,
+      "count": 1,
+      "first_seen": "2026-06-17 20:48:47",
+      "last_seen": "2026-06-17 20:48:47",
+      "history": [
+        {
+          "time": "2026-06-17 20:48:47",
+          "ocr_name": "루프로민벨로스",
+          "product_code": "P10382",
+          "product_name": "프로비미) 루프로민밸런스 2.0",
+          "source": "image_button",
+          "score": 50
+        }
+      ]
+    },
+    "바이믹스310백": {
+      "ocr_name": "바이믹스310(백)",
+      "ocr_key": "바이믹스310백",
+      "product_code": "P10267",
+      "product_name": "이지그룹) 바이믹스-310(Bag)",
+      "source": "image_button",
+      "score": 64,
+      "count": 1,
+      "first_seen": "2026-06-17 20:49:20",
+      "last_seen": "2026-06-17 20:49:20",
+      "history": [
+        {
+          "time": "2026-06-17 20:49:20",
+          "ocr_name": "바이믹스310(백)",
+          "product_code": "P10267",
+          "product_name": "이지그룹) 바이믹스-310(Bag)",
+          "source": "image_button",
+          "score": 64
+        }
+      ]
+    },
+    "코킹토코": {
+      "ocr_name": "코킹토코",
+      "ocr_key": "코킹토코",
+      "product_code": "P100349",
+      "product_name": "CJ) 고킹토코",
+      "source": "image_button",
+      "score": 60,
+      "count": 1,
+      "first_seen": "2026-06-17 21:06:21",
+      "last_seen": "2026-06-17 21:06:21",
+      "history": [
+        {
+          "time": "2026-06-17 21:06:21",
+          "ocr_name": "코킹토코",
+          "product_code": "P100349",
+          "product_name": "CJ) 고킹토코",
+          "source": "image_button",
+          "score": 60
+        }
+      ]
+    },
+    "산란비타": {
+      "ocr_name": "산란비타",
+      "ocr_key": "산란비타",
+      "product_code": "P100357",
+      "product_name": "CJ) 산란비타",
+      "source": "manual_admin",
+      "score": 100,
+      "count": 1,
+      "first_seen": "2026-06-17 21:08:47",
+      "last_seen": "2026-06-17 21:08:47",
+      "history": [
+        {
+          "time": "2026-06-17 21:08:47",
+          "ocr_name": "산란비타",
+          "product_code": "P100357",
+          "product_name": "CJ) 산란비타",
+          "source": "manual_admin",
+          "score": 100
+        }
+      ]
+    },
+    "양계비타": {
+      "ocr_name": "양계비타",
+      "ocr_key": "양계비타",
+      "product_code": "P10221",
+      "product_name": "CJ) 양계비타",
+      "source": "manual_admin",
+      "score": 100,
+      "count": 1,
+      "first_seen": "2026-06-17 21:09:53",
+      "last_seen": "2026-06-17 21:09:53",
+      "history": [
+        {
+          "time": "2026-06-17 21:09:53",
+          "ocr_name": "양계비타",
+          "product_code": "P10221",
+          "product_name": "CJ) 양계비타",
+          "source": "manual_admin",
+          "score": 100
+        }
+      ]
+    },
+    "hs3": {
+      "ocr_name": "HS 3",
+      "ocr_key": "hs3",
+      "product_code": "P100713",
+      "product_name": "조이피드) HS1-3",
+      "source": "image_button",
+      "score": 55,
+      "count": 1,
+      "first_seen": "2026-06-17 21:19:13",
+      "last_seen": "2026-06-17 21:19:13",
+      "history": [
+        {
+          "time": "2026-06-17 21:19:13",
+          "ocr_name": "HS 3",
+          "product_code": "P100713",
+          "product_name": "조이피드) HS1-3",
+          "source": "image_button",
+          "score": 55
+        }
+      ]
+    },
+    "cj고킹토고": {
+      "ocr_name": "CJ) 고킹토고",
+      "ocr_key": "cj고킹토고",
+      "product_code": "P100349",
+      "product_name": "CJ) 고킹토코",
+      "source": "image_button",
+      "score": 83,
+      "count": 1,
+      "first_seen": "2026-06-18 11:10:06",
+      "last_seen": "2026-06-18 11:10:06",
+      "history": [
+        {
+          "time": "2026-06-18 11:10:06",
+          "ocr_name": "CJ) 고킹토고",
+          "product_code": "P100349",
+          "product_name": "CJ) 고킹토코",
+          "source": "image_button",
+          "score": 83
+        }
+      ]
+    },
+    "cj피그미네3": {
+      "ocr_name": "CJ) 피그미네3",
+      "ocr_key": "cj피그미네3",
+      "product_code": "P100093",
+      "product_name": "CJ) 피고미네3",
+      "source": "image_button",
+      "score": 86,
+      "count": 1,
+      "first_seen": "2026-06-18 11:25:44",
+      "last_seen": "2026-06-18 11:25:44",
+      "history": [
+        {
+          "time": "2026-06-18 11:25:44",
+          "ocr_name": "CJ) 피그미네3",
+          "product_code": "P100093",
+          "product_name": "CJ) 피고미네3",
+          "source": "image_button",
+          "score": 86
+        }
+      ]
+    },
+    "cj액스포미네랄": {
+      "ocr_name": "CJ) 액스포미네랄",
+      "ocr_key": "cj액스포미네랄",
+      "product_code": "P100055",
+      "product_name": "CJ) 엑스포미네랄",
+      "source": "image_button",
+      "score": 88,
+      "count": 1,
+      "first_seen": "2026-06-18 11:26:16",
+      "last_seen": "2026-06-18 11:26:16",
+      "history": [
+        {
+          "time": "2026-06-18 11:26:16",
+          "ocr_name": "CJ) 액스포미네랄",
+          "product_code": "P100055",
+          "product_name": "CJ) 엑스포미네랄",
+          "source": "image_button",
+          "score": 88
+        }
+      ]
+    },
+    "cj프리미어비타a농축": {
+      "ocr_name": "CJ) 프리미어비타A(농축)",
+      "ocr_key": "cj프리미어비타a농축",
+      "product_code": "P100780",
+      "product_name": "CJ) 프러미에비타A(농축)",
+      "source": "image_button",
+      "score": 82,
+      "count": 1,
+      "first_seen": "2026-06-18 11:27:57",
+      "last_seen": "2026-06-18 11:27:57",
+      "history": [
+        {
+          "time": "2026-06-18 11:27:57",
+          "ocr_name": "CJ) 프리미어비타A(농축)",
+          "product_code": "P100780",
+          "product_name": "CJ) 프러미에비타A(농축)",
+          "source": "image_button",
+          "score": 82
+        }
+      ]
+    },
+    "cj피그미네1": {
+      "ocr_name": "CJ) 피그미네1",
+      "ocr_key": "cj피그미네1",
+      "product_code": "P100091",
+      "product_name": "CJ) 피고미네1",
+      "source": "image_button",
+      "score": 86,
+      "count": 1,
+      "first_seen": "2026-06-18 11:30:03",
+      "last_seen": "2026-06-18 11:30:03",
+      "history": [
+        {
+          "time": "2026-06-18 11:30:03",
+          "ocr_name": "CJ) 피그미네1",
+          "product_code": "P100091",
+          "product_name": "CJ) 피고미네1",
+          "source": "image_button",
+          "score": 86
+        }
+      ]
+    },
+    "cj피그미네2": {
+      "ocr_name": "CJ) 피그미네2",
+      "ocr_key": "cj피그미네2",
+      "product_code": "P100092",
+      "product_name": "CJ) 피고미네2",
+      "source": "image_button",
+      "score": 86,
+      "count": 1,
+      "first_seen": "2026-06-18 11:30:36",
+      "last_seen": "2026-06-18 11:30:36",
+      "history": [
+        {
+          "time": "2026-06-18 11:30:36",
+          "ocr_name": "CJ) 피그미네2",
+          "product_code": "P100092",
+          "product_name": "CJ) 피고미네2",
+          "source": "image_button",
+          "score": 86
+        }
+      ]
+    },
+    "cj피그미네1bag": {
+      "ocr_name": "CJ) 피그미네1 (Bag)",
+      "ocr_key": "cj피그미네1bag",
+      "product_code": "P10149",
+      "product_name": "CJ) 피고미네1 (Bag)",
+      "source": "image_button",
+      "score": 90,
+      "count": 1,
+      "first_seen": "2026-06-18 11:31:09",
+      "last_seen": "2026-06-18 11:31:09",
+      "history": [
+        {
+          "time": "2026-06-18 11:31:09",
+          "ocr_name": "CJ) 피그미네1 (Bag)",
+          "product_code": "P10149",
+          "product_name": "CJ) 피고미네1 (Bag)",
+          "source": "image_button",
+          "score": 90
+        }
+      ]
+    },
+    "대구토코10": {
+      "ocr_name": "대구토코10",
+      "ocr_key": "대구토코10",
+      "product_code": "P100739",
+      "product_name": "대구축협) 토코-10",
+      "source": "manual_admin",
+      "score": 100,
+      "count": 1,
+      "first_seen": "2026-06-18 19:56:02",
+      "last_seen": "2026-06-18 19:56:02",
+      "history": [
+        {
+          "time": "2026-06-18 19:56:02",
+          "ocr_name": "대구토코10",
+          "product_code": "P100739",
+          "product_name": "대구축협) 토코-10",
+          "source": "manual_admin",
+          "score": 100
+        }
+      ]
+    },
+    "그레이프피퍼": {
+      "ocr_name": "그레이프피퍼",
+      "ocr_key": "그레이프피퍼",
+      "product_code": "P10561",
+      "product_name": "그레이프 피피 (Grape PP) 20KG",
+      "source": "image_button",
+      "score": 48,
+      "count": 1,
+      "first_seen": "2026-06-18 21:00:35",
+      "last_seen": "2026-06-18 21:00:35",
+      "history": [
+        {
+          "time": "2026-06-18 21:00:35",
+          "ocr_name": "그레이프피퍼",
+          "product_code": "P10561",
+          "product_name": "그레이프 피피 (Grape PP) 20KG",
+          "source": "image_button",
+          "score": 48
+        }
+      ]
+    },
+    "피그렛믹스": {
+      "ocr_name": "피그렛믹스",
+      "ocr_key": "피그렛믹스",
+      "product_code": "P100743",
+      "product_name": "DH) 피글렛믹스",
+      "source": "image_button",
+      "score": 67,
+      "count": 1,
+      "first_seen": "2026-06-18 21:03:45",
+      "last_seen": "2026-06-18 21:03:45",
+      "history": [
+        {
+          "time": "2026-06-18 21:03:45",
+          "ocr_name": "피그렛믹스",
+          "product_code": "P100743",
+          "product_name": "DH) 피글렛믹스",
+          "source": "image_button",
+          "score": 67
+        }
+      ]
+    },
+    "비타민e골드프롬씨": {
+      "ocr_name": "비타민E골드프롬씨",
+      "ocr_key": "비타민e골드프롬씨",
+      "product_code": "P101285",
+      "product_name": "비타미네골드플러스 20Kg",
+      "source": "manual_admin",
+      "score": 100,
+      "count": 1,
+      "first_seen": "2026-06-18 21:06:57",
+      "last_seen": "2026-06-18 21:06:57",
+      "history": [
+        {
+          "time": "2026-06-18 21:06:57",
+          "ocr_name": "비타민E골드프롬씨",
+          "product_code": "P101285",
+          "product_name": "비타미네골드플러스 20Kg",
+          "source": "manual_admin",
+          "score": 100
+        }
+      ]
+    },
+    "루프론민밸런스": {
+      "ocr_name": "루프론민밸런스",
+      "ocr_key": "루프론민밸런스",
+      "product_code": "P10382",
+      "product_name": "프로비미) 루프로민밸런스 2.0",
+      "source": "image_button",
+      "score": 60,
+      "count": 1,
+      "first_seen": "2026-06-18 21:07:14",
+      "last_seen": "2026-06-18 21:07:14",
+      "history": [
+        {
+          "time": "2026-06-18 21:07:14",
+          "ocr_name": "루프론민밸런스",
+          "product_code": "P10382",
+          "product_name": "프로비미) 루프로민밸런스 2.0",
+          "source": "image_button",
+          "score": 60
+        }
+      ]
+    },
+    "프리비타a농축": {
+      "ocr_name": "프리비타A(농축)",
+      "ocr_key": "프리비타a농축",
+      "product_code": "P100780",
+      "product_name": "CJ) 프러미에비타A(농축)",
+      "source": "image_button",
+      "score": 78,
+      "count": 1,
+      "first_seen": "2026-06-18 21:14:02",
+      "last_seen": "2026-06-18 21:14:02",
+      "history": [
+        {
+          "time": "2026-06-18 21:14:02",
+          "ocr_name": "프리비타A(농축)",
+          "product_code": "P100780",
+          "product_name": "CJ) 프러미에비타A(농축)",
+          "source": "image_button",
+          "score": 78
+        }
+      ]
+    },
+    "피고미네1백": {
+      "ocr_name": "피고미네1(백)",
+      "ocr_key": "피고미네1백",
+      "product_code": "P10149",
+      "product_name": "CJ) 피고미네1 (Bag)",
+      "source": "manual_admin",
+      "score": 100,
+      "count": 1,
+      "first_seen": "2026-06-18 21:18:18",
+      "last_seen": "2026-06-18 21:18:18",
+      "history": [
+        {
+          "time": "2026-06-18 21:18:18",
+          "ocr_name": "피고미네1(백)",
+          "product_code": "P10149",
+          "product_name": "CJ) 피고미네1 (Bag)",
+          "source": "manual_admin",
+          "score": 100
+        }
+      ]
+    },
+    "루포로민발러스": {
+      "ocr_name": "루포로민발러스",
+      "ocr_key": "루포로민발러스",
+      "product_code": "P10382",
+      "product_name": "프로비미) 루프로민밸런스 2.0",
+      "source": "image_button",
+      "score": 57,
+      "count": 1,
+      "first_seen": "2026-06-18 21:21:52",
+      "last_seen": "2026-06-18 21:21:52",
+      "history": [
+        {
+          "time": "2026-06-18 21:21:52",
+          "ocr_name": "루포로민발러스",
+          "product_code": "P10382",
+          "product_name": "프로비미) 루프로민밸런스 2.0",
+          "source": "image_button",
+          "score": 57
+        }
+      ]
+    },
+    "비브비타": {
+      "ocr_name": "비브비타",
+      "ocr_key": "비브비타",
+      "product_code": "P100352",
+      "product_name": "CJ) 비프비타",
+      "source": "manual_admin",
+      "score": 100,
+      "count": 1,
+      "first_seen": "2026-06-18 21:23:45",
+      "last_seen": "2026-06-18 21:23:45",
+      "history": [
+        {
+          "time": "2026-06-18 21:23:45",
+          "ocr_name": "비브비타",
+          "product_code": "P100352",
+          "product_name": "CJ) 비프비타",
+          "source": "manual_admin",
+          "score": 100
+        }
+      ]
+    },
+    "맘케비타": {
+      "ocr_name": "맘케비타",
+      "ocr_key": "맘케비타",
+      "product_code": "P10221",
+      "product_name": "CJ) 양계비타",
+      "source": "manual_admin",
+      "score": 100,
+      "count": 1,
+      "first_seen": "2026-06-18 21:24:11",
+      "last_seen": "2026-06-18 21:24:11",
+      "history": [
+        {
+          "time": "2026-06-18 21:24:11",
+          "ocr_name": "맘케비타",
+          "product_code": "P10221",
+          "product_name": "CJ) 양계비타",
+          "source": "manual_admin",
+          "score": 100
+        }
+      ]
+    },
+    "하이클루": {
+      "ocr_name": "하이클루톤",
+      "ocr_key": "하이클루",
+      "product_code": "P100905",
+      "product_name": "하이글루톤 1KG",
+      "source": "image_button",
+      "score": 67,
+      "count": 1,
+      "first_seen": "2026-06-19 11:16:01",
+      "last_seen": "2026-06-19 11:16:01",
+      "history": [
+        {
+          "time": "2026-06-19 11:16:01",
+          "ocr_name": "하이클루톤",
+          "product_code": "P100905",
+          "product_name": "하이글루톤 1KG",
+          "source": "image_button",
+          "score": 67
+        }
+      ]
+    },
+    "sg31d": {
+      "ocr_name": "SG 31D",
+      "ocr_key": "sg31d",
+      "product_code": "P101272",
+      "product_name": "SG318D",
+      "source": "image_button",
+      "score": 91,
+      "count": 2,
+      "first_seen": "2026-06-19 11:16:52",
+      "last_seen": "2026-06-19 11:17:14",
+      "history": [
+        {
+          "time": "2026-06-19 11:16:52",
+          "ocr_name": "SG 31D",
+          "product_code": "P101272",
+          "product_name": "SG318D",
+          "source": "manual_admin",
+          "score": 100
+        },
+        {
+          "time": "2026-06-19 11:17:14",
+          "ocr_name": "SG 31D",
+          "product_code": "P101272",
+          "product_name": "SG318D",
+          "source": "image_button",
+          "score": 91
+        }
+      ]
+    },
+    "그레이프콘센트레이트": {
+      "ocr_name": "그레이프콘센트레이트",
+      "ocr_key": "그레이프콘센트레이트",
+      "product_code": "P10547",
+      "product_name": "그레이프 컨센트레이트 50 (Grape Concentrate 50)",
+      "source": "image_button",
+      "score": 45,
+      "count": 1,
+      "first_seen": "2026-06-20 14:59:06",
+      "last_seen": "2026-06-20 14:59:06",
+      "history": [
+        {
+          "time": "2026-06-20 14:59:06",
+          "ocr_name": "그레이프콘센트레이트",
+          "product_code": "P10547",
+          "product_name": "그레이프 컨센트레이트 50 (Grape Concentrate 50)",
+          "source": "image_button",
+          "score": 45
+        }
+      ]
+    },
+    "루포르민밸런스": {
+      "ocr_name": "루포르민밸런스",
+      "ocr_key": "루포르민밸런스",
+      "product_code": "P10382",
+      "product_name": "프로비미) 루프로민밸런스 2.0",
+      "source": "image_button",
+      "score": 71,
+      "count": 1,
+      "first_seen": "2026-06-22 13:50:18",
+      "last_seen": "2026-06-22 13:50:18",
+      "history": [
+        {
+          "time": "2026-06-22 13:50:18",
+          "ocr_name": "루포르민밸런스",
+          "product_code": "P10382",
+          "product_name": "프로비미) 루프로민밸런스 2.0",
+          "source": "image_button",
+          "score": 71
+        }
+      ]
+    },
+    "고킹토크": {
+      "ocr_name": "고킹토크",
+      "ocr_key": "고킹토크",
+      "product_code": "P100349",
+      "product_name": "CJ) 고킹토코",
+      "source": "image_button",
+      "score": 60,
+      "count": 1,
+      "first_seen": "2026-06-23 18:33:46",
+      "last_seen": "2026-06-23 18:33:46",
+      "history": [
+        {
+          "time": "2026-06-23 18:33:46",
+          "ocr_name": "고킹토크",
+          "product_code": "P100349",
+          "product_name": "CJ) 고킹토코",
+          "source": "image_button",
+          "score": 60
+        }
+      ]
+    },
+    "루프로모빌렌스": {
+      "ocr_name": "루프로모빌렌스",
+      "ocr_key": "루프로모빌렌스",
+      "product_code": "P10382",
+      "product_name": "프로비미) 루프로민밸런스 2.0",
+      "source": "image_button",
+      "score": 57,
+      "count": 1,
+      "first_seen": "2026-06-23 18:34:13",
+      "last_seen": "2026-06-23 18:34:13",
+      "history": [
+        {
+          "time": "2026-06-23 18:34:13",
+          "ocr_name": "루프로모빌렌스",
+          "product_code": "P10382",
+          "product_name": "프로비미) 루프로민밸런스 2.0",
+          "source": "image_button",
+          "score": 57
+        }
+      ]
+    },
+    "뉴미네랄d백": {
+      "ocr_name": "뉴미네랄D(백)",
+      "ocr_key": "뉴미네랄d백",
+      "product_code": "P10148",
+      "product_name": "CJ) 뉴미네랄D (Bag)",
+      "source": "image_button",
+      "score": 62,
+      "count": 1,
+      "first_seen": "2026-06-23 18:34:14",
+      "last_seen": "2026-06-23 18:34:14",
+      "history": [
+        {
+          "time": "2026-06-23 18:34:14",
+          "ocr_name": "뉴미네랄D(백)",
+          "product_code": "P10148",
+          "product_name": "CJ) 뉴미네랄D (Bag)",
+          "source": "image_button",
+          "score": 62
+        }
+      ]
+    },
+    "프리비타c농축": {
+      "ocr_name": "프리비타C(농축)",
+      "ocr_key": "프리비타c농축",
+      "product_code": "P100780",
+      "product_name": "CJ) 프러미에비타A(농축)",
+      "source": "image_button",
+      "score": 86,
+      "count": 1,
+      "first_seen": "2026-06-23 19:31:17",
+      "last_seen": "2026-06-23 19:31:17",
+      "history": [
+        {
+          "time": "2026-06-23 19:31:17",
+          "ocr_name": "프리비타C(농축)",
+          "product_code": "P100780",
+          "product_name": "CJ) 프러미에비타A(농축)",
+          "source": "image_button",
+          "score": 86
+        }
+      ]
+    },
+    "프로바조그알파": {
+      "ocr_name": "프로바조그알파",
+      "ocr_key": "프로바조그알파",
+      "product_code": "P10473",
+      "product_name": "프로비조그 알파",
+      "source": "image_button",
+      "score": 86,
+      "count": 1,
+      "first_seen": "2026-06-23 19:43:27",
+      "last_seen": "2026-06-23 19:43:27",
+      "history": [
+        {
+          "time": "2026-06-23 19:43:27",
+          "ocr_name": "프로바조그알파",
+          "product_code": "P10473",
+          "product_name": "프로비조그 알파",
+          "source": "image_button",
+          "score": 86
+        }
+      ]
+    },
+    "모토비타": {
+      "ocr_name": "모토비타",
+      "ocr_key": "모토비타",
+      "product_code": "P100018",
+      "product_name": "CJ) 모돈비타",
+      "source": "image_button",
+      "score": 60,
+      "count": 1,
+      "first_seen": "2026-06-23 20:17:40",
+      "last_seen": "2026-06-23 20:17:40",
+      "history": [
+        {
+          "time": "2026-06-23 20:17:40",
+          "ocr_name": "모토비타",
+          "product_code": "P100018",
+          "product_name": "CJ) 모돈비타",
+          "source": "image_button",
+          "score": 60
+        }
+      ]
+    },
+    "루코로민벨러스": {
+      "ocr_name": "루코로민벨러스",
+      "ocr_key": "루코로민벨러스",
+      "product_code": "P10382",
+      "product_name": "프로비미) 루프로민밸런스 2.0",
+      "source": "image_button",
+      "score": 71,
+      "count": 1,
+      "first_seen": "2026-06-23 20:18:28",
+      "last_seen": "2026-06-23 20:18:28",
+      "history": [
+        {
+          "time": "2026-06-23 20:18:28",
+          "ocr_name": "루코로민벨러스",
+          "product_code": "P10382",
+          "product_name": "프로비미) 루프로민밸런스 2.0",
+          "source": "image_button",
+          "score": 71
+        }
+      ]
+    },
+    "as빈식우": {
+      "ocr_name": "AS 빈식우",
+      "ocr_key": "as빈식우",
+      "product_code": "P10350",
+      "product_name": "수원축협) AS 번식우",
+      "source": "image_button",
+      "score": 57,
+      "count": 1,
+      "first_seen": "2026-06-23 20:18:52",
+      "last_seen": "2026-06-23 20:18:52",
+      "history": [
+        {
+          "time": "2026-06-23 20:18:52",
+          "ocr_name": "AS 빈식우",
+          "product_code": "P10350",
+          "product_name": "수원축협) AS 번식우",
+          "source": "image_button",
+          "score": 57
+        }
+      ]
+    },
+    "트릴토판20": {
+      "ocr_name": "트릴토판20%",
+      "ocr_key": "트릴토판20",
+      "product_code": "P100574",
+      "product_name": "트립토판20%",
+      "source": "manual_admin",
+      "score": 100,
+      "count": 1,
+      "first_seen": "2026-06-23 20:25:31",
+      "last_seen": "2026-06-23 20:25:31",
+      "history": [
+        {
+          "time": "2026-06-23 20:25:31",
+          "ocr_name": "트릴토판20%",
+          "product_code": "P100574",
+          "product_name": "트립토판20%",
+          "source": "manual_admin",
+          "score": 100
+        }
+      ]
+    },
+    "트릴토판10": {
+      "ocr_name": "트릴토판10%",
+      "ocr_key": "트릴토판10",
+      "product_code": "P100787",
+      "product_name": "트립토판10%",
+      "source": "manual_admin",
+      "score": 100,
+      "count": 1,
+      "first_seen": "2026-06-23 20:26:21",
+      "last_seen": "2026-06-23 20:26:21",
+      "history": [
+        {
+          "time": "2026-06-23 20:26:21",
+          "ocr_name": "트릴토판10%",
+          "product_code": "P100787",
+          "product_name": "트립토판10%",
+          "source": "manual_admin",
+          "score": 100
+        }
+      ]
+    },
+    "뉴미네랄50백": {
+      "ocr_name": "뉴미네랄50(백)",
+      "ocr_key": "뉴미네랄50백",
+      "product_code": "P10152",
+      "product_name": "CJ) 뉴미네랄50 (Bag)",
+      "source": "manual_admin",
+      "score": 100,
+      "count": 1,
+      "first_seen": "2026-06-23 20:26:39",
+      "last_seen": "2026-06-23 20:26:39",
+      "history": [
+        {
+          "time": "2026-06-23 20:26:39",
+          "ocr_name": "뉴미네랄50(백)",
+          "product_code": "P10152",
+          "product_name": "CJ) 뉴미네랄50 (Bag)",
+          "source": "manual_admin",
+          "score": 100
+        }
+      ]
+    },
+    "비타골드": {
+      "ocr_name": "비타골드",
+      "ocr_key": "비타골드",
+      "product_code": "P101268",
+      "product_name": "비타골드 20Kg",
+      "source": "manual_admin",
+      "score": 100,
+      "count": 1,
+      "first_seen": "2026-06-23 20:53:17",
+      "last_seen": "2026-06-23 20:53:17",
+      "history": [
+        {
+          "time": "2026-06-23 20:53:17",
+          "ocr_name": "비타골드",
+          "product_code": "P101268",
+          "product_name": "비타골드 20Kg",
+          "source": "manual_admin",
+          "score": 100
+        }
+      ]
+    },
+    "비타코드": {
+      "ocr_name": "비타코드",
+      "ocr_key": "비타코드",
+      "product_code": "P101268",
+      "product_name": "비타골드 20Kg",
+      "source": "image_button",
+      "score": 75,
+      "count": 1,
+      "first_seen": "2026-06-23 20:54:20",
+      "last_seen": "2026-06-23 20:54:20",
+      "history": [
+        {
+          "time": "2026-06-23 20:54:20",
+          "ocr_name": "비타코드",
+          "product_code": "P101268",
+          "product_name": "비타골드 20Kg",
+          "source": "image_button",
+          "score": 75
+        }
+      ]
+    },
+    "다이l89호": {
+      "ocr_name": "다이L89호",
+      "ocr_key": "다이l89호",
+      "product_code": "P10465",
+      "product_name": "대주산업) 다이나89",
+      "source": "image_button",
+      "score": 53,
+      "count": 1,
+      "first_seen": "2026-06-23 21:01:36",
+      "last_seen": "2026-06-23 21:01:36",
+      "history": [
+        {
+          "time": "2026-06-23 21:01:36",
+          "ocr_name": "다이L89호",
+          "product_code": "P10465",
+          "product_name": "대주산업) 다이나89",
+          "source": "image_button",
+          "score": 53
+        }
+      ]
+    },
+    "다이l6호": {
+      "ocr_name": "다이L6호",
+      "ocr_key": "다이l6호",
+      "product_code": "P10463",
+      "product_name": "대주산업) 다이나6",
+      "source": "image_button",
+      "score": 46,
+      "count": 1,
+      "first_seen": "2026-06-23 21:03:05",
+      "last_seen": "2026-06-23 21:03:05",
+      "history": [
+        {
+          "time": "2026-06-23 21:03:05",
+          "ocr_name": "다이L6호",
+          "product_code": "P10463",
+          "product_name": "대주산업) 다이나6",
+          "source": "image_button",
+          "score": 46
+        }
+      ]
+    },
+    "투뿔한우마무리": {
+      "ocr_name": "투불한우마무리",
+      "ocr_key": "투뿔한우마무리",
+      "product_code": "P10646",
+      "product_name": "투뿔한우 마무리",
+      "source": "image_button",
+      "score": 86,
+      "count": 1,
+      "first_seen": "2026-06-23 21:08:40",
+      "last_seen": "2026-06-23 21:08:40",
+      "history": [
+        {
+          "time": "2026-06-23 21:08:40",
+          "ocr_name": "투불한우마무리",
+          "product_code": "P10646",
+          "product_name": "투뿔한우 마무리",
+          "source": "image_button",
+          "score": 86
+        }
+      ]
+    },
+    "ad3mix1": {
+      "ocr_name": "AD3 MIX1%",
+      "ocr_key": "ad3mix1",
+      "product_code": "P100363",
+      "product_name": "조이피드) AD3믹스(1%)",
+      "source": "image_button",
+      "score": 47,
+      "count": 1,
+      "first_seen": "2026-06-23 21:10:17",
+      "last_seen": "2026-06-23 21:10:17",
+      "history": [
+        {
+          "time": "2026-06-23 21:10:17",
+          "ocr_name": "AD3 MIX1%",
+          "product_code": "P100363",
+          "product_name": "조이피드) AD3믹스(1%)",
+          "source": "image_button",
+          "score": 47
+        }
+      ]
+    },
+    "루프모린밸런스": {
+      "ocr_name": "루프모린밸런스",
+      "ocr_key": "루프모린밸런스",
+      "product_code": "P10382",
+      "product_name": "프로비미) 루프로민밸런스 2.0",
+      "source": "image_button",
+      "score": 71,
+      "count": 1,
+      "first_seen": "2026-06-23 21:13:02",
+      "last_seen": "2026-06-23 21:13:02",
+      "history": [
+        {
+          "time": "2026-06-23 21:13:02",
+          "ocr_name": "루프모린밸런스",
+          "product_code": "P10382",
+          "product_name": "프로비미) 루프로민밸런스 2.0",
+          "source": "image_button",
+          "score": 71
+        }
+      ]
+    },
+    "다이l85": {
+      "ocr_name": "다이L85",
+      "ocr_key": "다이l85",
+      "product_code": "P10479",
+      "product_name": "대주산업) 다이나85",
+      "source": "image_button",
+      "score": 57,
+      "count": 1,
+      "first_seen": "2026-06-23 21:15:54",
+      "last_seen": "2026-06-23 21:15:54",
+      "history": [
+        {
+          "time": "2026-06-23 21:15:54",
+          "ocr_name": "다이L85",
+          "product_code": "P10479",
+          "product_name": "대주산업) 다이나85",
+          "source": "image_button",
+          "score": 57
+        }
+      ]
+    },
+    "카길루프로민밸런스20": {
+      "ocr_name": "카길)루프로민밸런스 2.0",
+      "ocr_key": "카길루프로민밸런스20",
+      "product_code": "p10645",
+      "product_name": "카길)루프로민밸런스 2.0",
+      "source": "manual_admin",
+      "score": 100,
+      "count": 1,
+      "first_seen": "2026-06-24 19:01:11",
+      "last_seen": "2026-06-24 19:01:11",
+      "history": [
+        {
+          "time": "2026-06-24 19:01:11",
+          "ocr_name": "카길)루프로민밸런스 2.0",
+          "product_code": "p10645",
+          "product_name": "카길)루프로민밸런스 2.0",
+          "source": "manual_admin",
+          "score": 100
+        }
+      ]
+    },
+    "바이믹스151": {
+      "ocr_name": "바이믹스151",
+      "ocr_key": "바이믹스151",
+      "product_code": "P100202",
+      "product_name": "이지그룹) 바이믹스-151",
+      "source": "manual_admin",
+      "score": 100,
+      "count": 1,
+      "first_seen": "2026-06-24 19:45:55",
+      "last_seen": "2026-06-24 19:45:55",
+      "history": [
+        {
+          "time": "2026-06-24 19:45:55",
+          "ocr_name": "바이믹스151",
+          "product_code": "P100202",
+          "product_name": "이지그룹) 바이믹스-151",
+          "source": "manual_admin",
+          "score": 100
+        }
+      ]
+    },
+    "피쉬미데농축": {
+      "ocr_name": "피쉬미데(농축)",
+      "ocr_key": "피쉬미데농축",
+      "product_code": "P100781",
+      "product_name": "CJ) 피쉬미네(농축)",
+      "source": "image_button",
+      "score": 71,
+      "count": 1,
+      "first_seen": "2026-06-24 19:47:02",
+      "last_seen": "2026-06-24 19:47:02",
+      "history": [
+        {
+          "time": "2026-06-24 19:47:02",
+          "ocr_name": "피쉬미데(농축)",
+          "product_code": "P100781",
+          "product_name": "CJ) 피쉬미네(농축)",
+          "source": "image_button",
+          "score": 71
+        }
+      ]
+    },
+    "이지비타c50": {
+      "ocr_name": "이지비타 C 50%",
+      "ocr_key": "이지비타c50",
+      "product_code": "P100753",
+      "product_name": "비타민C50%(이지)",
+      "source": "unified_alias_admin",
+      "score": 100,
+      "count": 1,
+      "first_seen": "2026-06-26 13:55:51",
+      "last_seen": "2026-06-26 13:55:51",
+      "history": [
+        {
+          "time": "2026-06-26 13:55:51",
+          "ocr_name": "이지비타 C 50%",
+          "product_code": "P100753",
+          "product_name": "비타민C50%(이지)",
+          "source": "unified_alias_admin",
+          "score": 100
+        }
+      ]
+    },
+    "이쿠아비타플러스": {
+      "ocr_name": "이쿠아 비타플러스",
+      "ocr_key": "이쿠아비타플러스",
+      "product_code": "P10618",
+      "product_name": "아쿠아비타플러스",
+      "source": "image_button",
+      "score": 88,
+      "count": 1,
+      "first_seen": "2026-06-26 13:55:53",
+      "last_seen": "2026-06-26 13:55:53",
+      "history": [
+        {
+          "time": "2026-06-26 13:55:53",
+          "ocr_name": "이쿠아 비타플러스",
+          "product_code": "P10618",
+          "product_name": "아쿠아비타플러스",
+          "source": "image_button",
+          "score": 88
+        }
+      ]
+    },
+    "메가맥": {
+      "ocr_name": "메가맥",
+      "ocr_key": "메가맥",
+      "product_code": "P100983",
+      "product_name": "다원메가멕",
+      "source": "image_button",
+      "score": 50,
+      "count": 1,
+      "first_seen": "2026-06-26 13:58:22",
+      "last_seen": "2026-06-26 13:58:22",
+      "history": [
+        {
+          "time": "2026-06-26 13:58:22",
+          "ocr_name": "메가맥",
+          "product_code": "P100983",
+          "product_name": "다원메가멕",
+          "source": "image_button",
+          "score": 50
+        }
+      ]
+    },
+    "비오가옹산": {
+      "ocr_name": "비오.가옹산",
+      "ocr_key": "비오가옹산",
+      "product_code": "P101071",
+      "product_name": "바이오가용산 1KG",
+      "source": "image_button",
+      "score": 50,
+      "count": 1,
+      "first_seen": "2026-06-26 14:37:52",
+      "last_seen": "2026-06-26 14:37:52",
+      "history": [
+        {
+          "time": "2026-06-26 14:37:52",
+          "ocr_name": "비오.가옹산",
+          "product_code": "P101071",
+          "product_name": "바이오가용산 1KG",
+          "source": "image_button",
+          "score": 50
+        }
+      ]
+    },
+    "하이너육시": {
+      "ocr_name": "하이너육시",
+      "ocr_key": "하이너육시",
+      "product_code": "P101104",
+      "product_name": "하이네옥시 1KG",
+      "source": "image_button",
+      "score": 55,
+      "count": 1,
+      "first_seen": "2026-06-26 14:45:18",
+      "last_seen": "2026-06-26 14:45:18",
+      "history": [
+        {
+          "time": "2026-06-26 14:45:18",
+          "ocr_name": "하이너육시",
+          "product_code": "P101104",
+          "product_name": "하이네옥시 1KG",
+          "source": "image_button",
+          "score": 55
+        }
+      ]
+    },
+    "디원에이올": {
+      "ocr_name": "디원 에이올",
+      "ocr_key": "디원에이올",
+      "product_code": "P100863",
+      "product_name": "다원에이알100ML",
+      "source": "image_button",
+      "score": 40,
+      "count": 1,
+      "first_seen": "2026-06-26 19:10:20",
+      "last_seen": "2026-06-26 19:10:20",
+      "history": [
+        {
+          "time": "2026-06-26 19:10:20",
+          "ocr_name": "디원 에이올",
+          "product_code": "P100863",
+          "product_name": "다원에이알100ML",
+          "source": "image_button",
+          "score": 40
+        }
+      ]
+    },
+    "파워비타e백": {
+      "ocr_name": "파워비타 E백",
+      "ocr_key": "파워비타e백",
+      "product_code": "P100924",
+      "product_name": "파워비타-E 1L",
+      "source": "image_button",
+      "score": 77,
+      "count": 1,
+      "first_seen": "2026-06-26 19:10:20",
+      "last_seen": "2026-06-26 19:10:20",
+      "history": [
+        {
+          "time": "2026-06-26 19:10:20",
+          "ocr_name": "파워비타 E백",
+          "product_code": "P100924",
+          "product_name": "파워비타-E 1L",
+          "source": "image_button",
+          "score": 77
+        }
+      ]
+    },
+    "다원헬씨장": {
+      "ocr_name": "다원 헬씨장",
+      "ocr_key": "다원헬씨장",
+      "product_code": "P10391",
+      "product_name": "다원 엘씨랑",
+      "source": "image_button",
+      "score": 60,
+      "count": 1,
+      "first_seen": "2026-06-26 19:16:38",
+      "last_seen": "2026-06-26 19:16:38",
+      "history": [
+        {
+          "time": "2026-06-26 19:16:38",
+          "ocr_name": "다원 헬씨장",
+          "product_code": "P10391",
+          "product_name": "다원 엘씨랑",
+          "source": "image_button",
+          "score": 60
+        }
+      ]
+    },
+    "플로렌200액": {
+      "ocr_name": "플로렌 200액",
+      "ocr_key": "플로렌200액",
+      "product_code": "P101089",
+      "product_name": "다원플로펜액200 1LT",
+      "source": "image_button",
+      "score": 53,
+      "count": 1,
+      "first_seen": "2026-06-26 19:17:26",
+      "last_seen": "2026-06-26 19:17:26",
+      "history": [
+        {
+          "time": "2026-06-26 19:17:26",
+          "ocr_name": "플로렌 200액",
+          "product_code": "P101089",
+          "product_name": "다원플로펜액200 1LT",
+          "source": "image_button",
+          "score": 53
+        }
+      ]
+    },
+    "수하이관텔500산": {
+      "ocr_name": "수)하이관텔 500산",
+      "ocr_key": "수하이관텔500산",
+      "product_code": "P101242",
+      "product_name": "하이콴텔500산 0.4KG",
+      "source": "image_button",
+      "score": 74,
+      "count": 1,
+      "first_seen": "2026-06-26 20:45:06",
+      "last_seen": "2026-06-26 20:45:06",
+      "history": [
+        {
+          "time": "2026-06-26 20:45:06",
+          "ocr_name": "수)하이관텔 500산",
+          "product_code": "P101242",
+          "product_name": "하이콴텔500산 0.4KG",
+          "source": "image_button",
+          "score": 74
+        }
+      ]
+    },
+    "수하이루특시200산": {
+      "ocr_name": "수)하이루특시 200산",
+      "ocr_key": "수하이루특시200산",
+      "product_code": "P10531",
+      "product_name": "수산용 하이독시200산",
+      "source": "image_button",
+      "score": 76,
+      "count": 1,
+      "first_seen": "2026-06-26 20:45:50",
+      "last_seen": "2026-06-26 20:45:50",
+      "history": [
+        {
+          "time": "2026-06-26 20:45:50",
+          "ocr_name": "수)하이루특시 200산",
+          "product_code": "P10531",
+          "product_name": "수산용 하이독시200산",
+          "source": "image_button",
+          "score": 76
+        }
+      ]
+    },
+    "스위드올라백": {
+      "ocr_name": "스위드올라(백)",
+      "ocr_key": "스위드올라백",
+      "product_code": "P10575",
+      "product_name": "스위트몰라(Bag)",
+      "source": "image_button",
+      "score": 43,
+      "count": 1,
+      "first_seen": "2026-07-02 21:25:21",
+      "last_seen": "2026-07-02 21:25:21",
+      "history": [
+        {
+          "time": "2026-07-02 21:25:21",
+          "ocr_name": "스위드올라(백)",
+          "product_code": "P10575",
+          "product_name": "스위트몰라(Bag)",
+          "source": "image_button",
+          "score": 43
+        }
+      ]
+    },
+    "엔자민도백": {
+      "ocr_name": "엔자민도(백)",
+      "ocr_key": "엔자민도백",
+      "product_code": "P10548",
+      "product_name": "엔자만노",
+      "source": "image_button",
+      "score": 44,
+      "count": 1,
+      "first_seen": "2026-07-02 21:25:41",
+      "last_seen": "2026-07-02 21:25:41",
+      "history": [
+        {
+          "time": "2026-07-02 21:25:41",
+          "ocr_name": "엔자민도(백)",
+          "product_code": "P10548",
+          "product_name": "엔자만노",
+          "source": "image_button",
+          "score": 44
+        }
+      ]
+    },
+    "대한트립토판20": {
+      "ocr_name": "대한트립토판20%",
+      "ocr_key": "대한트립토판20",
+      "product_code": "P10543",
+      "product_name": "대한사료) 트립토판20%",
+      "source": "unified_alias_admin",
+      "score": 100,
+      "count": 1,
+      "first_seen": "2026-07-02 21:26:09",
+      "last_seen": "2026-07-02 21:26:09",
+      "history": [
+        {
+          "time": "2026-07-02 21:26:09",
+          "ocr_name": "대한트립토판20%",
+          "product_code": "P10543",
+          "product_name": "대한사료) 트립토판20%",
+          "source": "unified_alias_admin",
+          "score": 100
+        }
+      ]
+    },
+    "러브머린액": {
+      "ocr_name": "러브머린액",
+      "ocr_key": "러브머린액",
+      "product_code": "P101284",
+      "product_name": "축)리버마린액",
+      "source": "image_button",
+      "score": 37,
+      "count": 1,
+      "first_seen": "2026-07-03 13:45:40",
+      "last_seen": "2026-07-03 13:45:40",
+      "history": [
+        {
+          "time": "2026-07-03 13:45:40",
+          "ocr_name": "러브머린액",
+          "product_code": "P101284",
+          "product_name": "축)리버마린액",
+          "source": "image_button",
+          "score": 37
+        }
+      ]
+    },
+    "아쿠아판타제1": {
+      "ocr_name": "아쿠아판타제 1KG",
+      "ocr_key": "아쿠아판타제1",
+      "product_code": "P101030",
+      "product_name": "아쿠아판타제 1KG",
+      "source": "unified_alias_admin",
+      "score": 100,
+      "count": 1,
+      "first_seen": "2026-07-03 19:38:41",
+      "last_seen": "2026-07-03 19:38:41",
+      "history": [
+        {
+          "time": "2026-07-03 19:38:41",
+          "ocr_name": "아쿠아판타제 1KG",
+          "product_code": "P101030",
+          "product_name": "아쿠아판타제 1KG",
+          "source": "unified_alias_admin",
+          "score": 100
+        }
+      ]
+    },
+    "프로헬스탑5": {
+      "ocr_name": "프로헬스탑 5kg",
+      "ocr_key": "프로헬스탑5",
+      "product_code": "P10432",
+      "product_name": "프로헬스탑 5kg",
+      "source": "unified_alias_admin",
+      "score": 100,
+      "count": 1,
+      "first_seen": "2026-07-03 19:38:43",
+      "last_seen": "2026-07-03 19:38:43",
+      "history": [
+        {
+          "time": "2026-07-03 19:38:43",
+          "ocr_name": "프로헬스탑 5kg",
+          "product_code": "P10432",
+          "product_name": "프로헬스탑 5kg",
+          "source": "unified_alias_admin",
+          "score": 100
+        }
+      ]
+    },
+    "다원티아클린1": {
+      "ocr_name": "다원티아클린 1KG",
+      "ocr_key": "다원티아클린1",
+      "product_code": "P101000",
+      "product_name": "다원티아클린 1KG",
+      "source": "unified_alias_admin",
+      "score": 100,
+      "count": 1,
+      "first_seen": "2026-07-03 19:45:51",
+      "last_seen": "2026-07-03 19:45:51",
+      "history": [
+        {
+          "time": "2026-07-03 19:45:51",
+          "ocr_name": "다원티아클린 1KG",
+          "product_code": "P101000",
+          "product_name": "다원티아클린 1KG",
+          "source": "unified_alias_admin",
+          "score": 100
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-07-03 19:45:51"
+}
